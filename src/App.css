@@ -1,0 +1,38 @@
+.main {
+  min-height: 60vh;
+}
+
+.verify-page {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reg-page form {
+  width: 450px;
+  margin: auto;
+}
+
+.reset-password {
+  width: 450px;
+  margin: auto;
+}
+
+.sidbar-menu li {
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+
+.sidbar-menu a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sidbar-menu i {
+  color: white;
+  margin-right: 1rem;
+  width: 1rem;
+}
