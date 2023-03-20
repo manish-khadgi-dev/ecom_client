@@ -106,7 +106,7 @@ const Registration = () => {
 
           {isLoading && (
             <div className="text-center">
-              <Spinner variant="primary" animation="border" />
+              <Spinner variant="success" animation="border" />
             </div>
           )}
 
